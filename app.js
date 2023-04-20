@@ -13,13 +13,6 @@ https.get(url, function(response){
         const temp = weatherData.main.temp
         const weatherDescription = weatherData.weather[0].description
         console.log(temp);
-        console.log(weatherData);
-        console.log(weatherData);
-        console.log(weatherData);
-        console.log(weatherData);
-        console.log(weatherData);
-        console.log(weatherData);
-        console.log(weatherData);
     })
 })
     res.send("Server is up and running");
