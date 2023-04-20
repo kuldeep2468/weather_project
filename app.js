@@ -15,6 +15,11 @@ https.get(url, function(response){
         console.log(temp);
         console.log(weatherData);
         console.log(weatherData);
+        console.log(weatherData);
+        console.log(weatherData);
+        console.log(weatherData);
+        console.log(weatherData);
+        console.log(weatherData);
     })
 })
     res.send("Server is up and running");
